@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "students": [{
+        "id": 1,
+        "name": "suman parajuli",
+        "course": "bca",
+        "email": "sumanpra@gmail.com",
+        "phone": "9856788760",
+        "created_at": null,
+        "updated_at": null
+    }]
+}
